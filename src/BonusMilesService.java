@@ -1,2 +1,11 @@
-package PACKAGE_NAME;public class BonusMilesService {
+public class BonusMilesService {
+    public int calculate(int price) {
+        int myMiles;smyMiles = price / 20;
+        return myMiles;
+
+
+    }
+
+
 }
+
